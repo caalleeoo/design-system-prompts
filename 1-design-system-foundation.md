@@ -4,7 +4,7 @@ Analyze this design screenshot, extract design tokens, and set up a complete des
 
 ## Input
 
-[SCREENSHOT FROM DRIBBBLE, BEHANCE, OR ANY DESIGN INSPIRATION]
+C:\Users\04113856150\design-system-prompts\Manual Portal de Periodicos.html
 
 ## Workflow
 
